@@ -5,7 +5,7 @@ Machine learning model to classify documents using python
 This package contains the  source code and binaries for 
 model described in:
 
-The directory contents of this distribution are as follows:
+The directory contents of this repository are as follows:
 
 * Document_classification.py        - python 3
 * README          		          - This documentation
