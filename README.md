@@ -7,7 +7,6 @@ model described in:
 
 The directory contents of this distribution are as follows:
 
-./
 Document_classification.py        - python 3
 README          		          - This documentation
 test_data   			          - Test data
