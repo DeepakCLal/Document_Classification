@@ -9,8 +9,12 @@ The directory contents of this distribution are as follows:
 
 * Document_classification.py        - python 3
 * README          		          - This documentation
+
+And a zip file data which contains
+
 * test_data   			          - Test data
 * train_data_labels		          - Train data
+* pred_labels_two              - The final output
 
 ============================================================
 
