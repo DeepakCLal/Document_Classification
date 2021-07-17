@@ -19,8 +19,8 @@ Running Instruction
 Use jupyter notebook to run the code in Python 3.
 
 Library used: 
-import pandas as pd
-import numpy as np
+- import pandas as pd
+- import numpy as np
 from nltk.tokenize import word_tokenize
 from nltk import pos_tag
 from nltk.corpus import stopwords
