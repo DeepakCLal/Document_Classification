@@ -11,7 +11,9 @@ The directory contents of this distribution are as follows:
 * README          		          - This documentation
 * test_data   			          - Test data
 * train_data_labels		          - Train data
+
 ============================================================
+
 Running Instruction
 
 Use jupyter notebook to run the code in Python 3.
@@ -31,12 +33,15 @@ from sklearn import model_selection, naive_bayes, svm
 from sklearn.metrics import accuracy_score
 
 ============================================================
+
 Input data format
 
 The format of input data is as requirement. There are two files
 
 train_data_labels          - includes id, texts, labels
 test_data                 - includes id, texts
+
 ============================================================
+
 Output files
 pred_labels_two.csv            - includes id and labels
